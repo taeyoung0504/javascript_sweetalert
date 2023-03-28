@@ -11,7 +11,7 @@ Alert는 사용자에게 알림을 주고자 할 때 정말 자구 사용하는 
 # SweetAlert2 홈페이지를 접속 : https://sweetalert2.github.io
 
 홈페이지 하단의 소스코드를 html 안에 넣으면 SweetAlert2 라이브러리를 사용가능하다
-
+//
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -28,3 +28,4 @@ Alert는 사용자에게 알림을 주고자 할 때 정말 자구 사용하는 
 </body>
 </body>
 </html>
+//
