@@ -43,6 +43,6 @@ function alert() {
 }
 ````
 
-<img src="https://user-images.githubusercontent.com/128016593/228178584-60ca4535-da73-44db-ae16-17d070e54ac7.png" width="1000">
+<img src="https://user-images.githubusercontent.com/128016593/228178584-60ca4535-da73-44db-ae16-17d070e54ac7.png" width="700">
 
 
