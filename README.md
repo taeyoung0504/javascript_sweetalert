@@ -30,3 +30,17 @@ Alert는 사용자에게 알림을 주고자 할 때 정말 자구 사용하는 
 </body>
 </html>
 ```
+
+그후 다음 아래와 같이 함수(function) 를 이용하여 alert의 속성을 변경하며 디자인을 바꿀 수 있다.
+```
+function alert() {
+
+    Swal.fire({
+        position: 'center', // alert창 위치 지정
+        icon: 'success',
+        title: '로그인 성공'        
+    })
+}
+````
+
+
