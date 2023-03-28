@@ -12,19 +12,3 @@ Alert는 사용자에게 알림을 주고자 할 때 정말 자구 사용하는 
 
 홈페이지 하단의 소스코드를 html 안에 넣으면 SweetAlert2 라이브러리를 사용가능하다
 
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-<link href="https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@4/dark.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
-<script src='sweetalert.js'></script>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>
-</title>
-</head>
-<body>
-    <button onclick="alert()">클릭</button>
-</body>
-</body>
-</html>
